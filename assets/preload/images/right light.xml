@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="right light.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 20000" x="1" y="1" width="424" height="397"/>
+	<SubTexture name="Symbol 20001" x="1" y="1" width="424" height="397"/>
+	<SubTexture name="Symbol 20002" x="1" y="1" width="424" height="397"/>
+	<SubTexture name="Symbol 20003" x="426" y="1" width="424" height="397"/>
+	<SubTexture name="Symbol 20004" x="426" y="1" width="424" height="397"/>
+	<SubTexture name="Symbol 20005" x="426" y="1" width="424" height="397"/>
+	<SubTexture name="Symbol 20006" x="1" y="399" width="424" height="397"/>
+	<SubTexture name="Symbol 20007" x="1" y="399" width="424" height="397"/>
+	<SubTexture name="Symbol 20008" x="1" y="399" width="424" height="397"/>
+	<SubTexture name="Symbol 20009" x="426" y="399" width="424" height="397"/>
+	<SubTexture name="Symbol 20010" x="426" y="399" width="424" height="397"/>
+	<SubTexture name="Symbol 20011" x="426" y="399" width="424" height="397"/>
+</TextureAtlas>

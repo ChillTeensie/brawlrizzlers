@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="left light.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skibidi0000" x="1" y="1" width="527" height="392"/>
+	<SubTexture name="skibidi0001" x="1" y="1" width="527" height="392"/>
+	<SubTexture name="skibidi0002" x="1" y="1" width="527" height="392"/>
+	<SubTexture name="skibidi0003" x="529" y="1" width="526" height="390" frameX="0" frameY="-1" frameWidth="527" frameHeight="392"/>
+	<SubTexture name="skibidi0004" x="529" y="1" width="526" height="390" frameX="0" frameY="-1" frameWidth="527" frameHeight="392"/>
+	<SubTexture name="skibidi0005" x="529" y="1" width="526" height="390" frameX="0" frameY="-1" frameWidth="527" frameHeight="392"/>
+	<SubTexture name="skibidi0006" x="1056" y="1" width="526" height="390" frameX="0" frameY="-1" frameWidth="527" frameHeight="392"/>
+	<SubTexture name="skibidi0007" x="1056" y="1" width="526" height="390" frameX="0" frameY="-1" frameWidth="527" frameHeight="392"/>
+	<SubTexture name="skibidi0008" x="1056" y="1" width="526" height="390" frameX="0" frameY="-1" frameWidth="527" frameHeight="392"/>
+	<SubTexture name="skibidi0009" x="1" y="394" width="526" height="390" frameX="0" frameY="-1" frameWidth="527" frameHeight="392"/>
+	<SubTexture name="skibidi0010" x="1" y="394" width="526" height="390" frameX="0" frameY="-1" frameWidth="527" frameHeight="392"/>
+	<SubTexture name="skibidi0011" x="1" y="394" width="526" height="390" frameX="0" frameY="-1" frameWidth="527" frameHeight="392"/>
+</TextureAtlas>
